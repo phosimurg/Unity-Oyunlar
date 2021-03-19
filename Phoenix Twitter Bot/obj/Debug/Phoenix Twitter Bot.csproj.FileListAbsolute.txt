@@ -11,3 +11,31 @@ C:\Users\Phoenix2071\source\repos\Phoenix Twitter Bot\Phoenix Twitter Bot\obj\De
 C:\Users\Phoenix2071\source\repos\Phoenix Twitter Bot\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.csproj.CopyComplete
 C:\Users\Phoenix2071\source\repos\Phoenix Twitter Bot\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.exe
 C:\Users\Phoenix2071\source\repos\Phoenix Twitter Bot\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.pdb
+C:\Users\Ahmet YILDIZ\Source\Repos\phosimurg\Twitter-Bot\Phoenix Twitter Bot\bin\Debug\Phoenix Twitter Bot.exe.config
+C:\Users\Ahmet YILDIZ\Source\Repos\phosimurg\Twitter-Bot\Phoenix Twitter Bot\bin\Debug\Phoenix Twitter Bot.exe
+C:\Users\Ahmet YILDIZ\Source\Repos\phosimurg\Twitter-Bot\Phoenix Twitter Bot\bin\Debug\Phoenix Twitter Bot.pdb
+C:\Users\Ahmet YILDIZ\Source\Repos\phosimurg\Twitter-Bot\Phoenix Twitter Bot\bin\Debug\WebDriver.dll
+C:\Users\Ahmet YILDIZ\Source\Repos\phosimurg\Twitter-Bot\Phoenix Twitter Bot\bin\Debug\WebDriver.xml
+C:\Users\Ahmet YILDIZ\Source\Repos\phosimurg\Twitter-Bot\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.csprojAssemblyReference.cache
+C:\Users\Ahmet YILDIZ\Source\Repos\phosimurg\Twitter-Bot\Phoenix Twitter Bot\obj\Debug\Phoenix_Twitter_Bot.Form1.resources
+C:\Users\Ahmet YILDIZ\Source\Repos\phosimurg\Twitter-Bot\Phoenix Twitter Bot\obj\Debug\Phoenix_Twitter_Bot.Properties.Resources.resources
+C:\Users\Ahmet YILDIZ\Source\Repos\phosimurg\Twitter-Bot\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.csproj.GenerateResource.cache
+C:\Users\Ahmet YILDIZ\Source\Repos\phosimurg\Twitter-Bot\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet YILDIZ\Source\Repos\phosimurg\Twitter-Bot\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.csproj.CopyComplete
+C:\Users\Ahmet YILDIZ\Source\Repos\phosimurg\Twitter-Bot\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.exe
+C:\Users\Ahmet YILDIZ\Source\Repos\phosimurg\Twitter-Bot\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.pdb
+C:\Users\Ahmet YILDIZ\Source\Repos\phosimurg\Twitter-Bot\Phoenix Twitter Bot\obj\Debug\Phoenix_Twitter_Bot.AnaSayfa.resources
+C:\Users\Ahmet YILDIZ\source\repos\phosimurg\bot yedek\Phoenix Twitter Bot\bin\Debug\Phoenix Twitter Bot.exe.config
+C:\Users\Ahmet YILDIZ\source\repos\phosimurg\bot yedek\Phoenix Twitter Bot\bin\Debug\Phoenix Twitter Bot.exe
+C:\Users\Ahmet YILDIZ\source\repos\phosimurg\bot yedek\Phoenix Twitter Bot\bin\Debug\Phoenix Twitter Bot.pdb
+C:\Users\Ahmet YILDIZ\source\repos\phosimurg\bot yedek\Phoenix Twitter Bot\bin\Debug\WebDriver.dll
+C:\Users\Ahmet YILDIZ\source\repos\phosimurg\bot yedek\Phoenix Twitter Bot\bin\Debug\WebDriver.xml
+C:\Users\Ahmet YILDIZ\source\repos\phosimurg\bot yedek\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.csprojAssemblyReference.cache
+C:\Users\Ahmet YILDIZ\source\repos\phosimurg\bot yedek\Phoenix Twitter Bot\obj\Debug\Phoenix_Twitter_Bot.AnaSayfa.resources
+C:\Users\Ahmet YILDIZ\source\repos\phosimurg\bot yedek\Phoenix Twitter Bot\obj\Debug\Phoenix_Twitter_Bot.Form1.resources
+C:\Users\Ahmet YILDIZ\source\repos\phosimurg\bot yedek\Phoenix Twitter Bot\obj\Debug\Phoenix_Twitter_Bot.Properties.Resources.resources
+C:\Users\Ahmet YILDIZ\source\repos\phosimurg\bot yedek\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.csproj.GenerateResource.cache
+C:\Users\Ahmet YILDIZ\source\repos\phosimurg\bot yedek\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet YILDIZ\source\repos\phosimurg\bot yedek\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.csproj.CopyComplete
+C:\Users\Ahmet YILDIZ\source\repos\phosimurg\bot yedek\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.exe
+C:\Users\Ahmet YILDIZ\source\repos\phosimurg\bot yedek\Phoenix Twitter Bot\obj\Debug\Phoenix Twitter Bot.pdb
